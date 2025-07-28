@@ -18,5 +18,21 @@ This project performs an Exploratory Data Analysis (EDA) on a bank marketing dat
 3. Ensure `bank-full.csv` is in the same directory.
 4. Run all cells.
 
-## ✍️ Author
-Dhinagar A — AIML Student @ SRM IST
+# 📊 Bank Marketing Campaign - EDA
+
+## Topics Covered
+
+- 📦 Importing Libraries
+- 📂 Loading Dataset
+- 🧹 Data Cleaning
+- 📊 Univariate Analysis
+- 📈 Bivariate Analysis
+- 🔍 Correlation Analysis
+- 🔄 Feature Transformation (if needed)
+- ✅ Target Variable Distribution
+- 📌 Key Insights
+
+---
+
+🎓 Project by Dhinagar A — B.Tech CSE (AIML), SRM IST
+
